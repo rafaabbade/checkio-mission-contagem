@@ -11,8 +11,8 @@ Each test is a dict with
 TESTS = {
     "Basics": [
         {
-            "input": [3],
-            "answer": '1/n2/n3'
+            "input": [5],
+            "answer": [[1, 2, 3, 4, 5]]
         }
     ]
 }
